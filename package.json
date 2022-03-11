@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-gen",
+  "version": "1.0.0",
+  "description": "The better @apply directive for tailwind, which doesn't compromise build size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+  "typescript": "^4.6.2"
+  },
+  "keywords": ["tailwind","tailwindcss","css","apply"],
+  "author": "rovelstars",
+  "license": "MIT"
+}
